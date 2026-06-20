@@ -1,5 +1,8 @@
 Hi there 👋
 
+I'm Döuglas Hoffmann, I'm a dev passionate about technology!
+
+This is a space where I spend most of my time where, imagination and creativity become code.
 
 - 💬 Ask me about anything <a href="https://www.linkedin.com/in/bydhoffmann/">here</a>
 - 📫 How to reach me: <a href="https://www.instagram.com/bydhoffmann/">@bydhoffmann</a>
