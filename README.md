@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 😎
 
 I'm Döuglas Hoffmann, I'm a dev passionate about technology!
 
